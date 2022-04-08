@@ -11,4 +11,4 @@ spec:
       url: https://github.com/TanzuDK/spring-petclinic.git
       ref:
         branch: accelerator
-        #tag: tap-1.2
+        tag: tap-1.3
